@@ -10,9 +10,9 @@ def clicked_slot():
 app = QApplication(sys.argv)
 
 # Button 위젯
-btn = QPushButton("Push me!")
-btn.clicked.connect(clicked_slot)
-btn.show()
+button = QPushButton("Push me!")
+button.clicked.connect(clicked_slot)
+button.show()
 
 # GUI 프로그램 동작 시작
 print("이벤트 루프가 시작됩니다...")
