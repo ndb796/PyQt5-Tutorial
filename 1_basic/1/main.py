@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import *
 
 # Callback 함수
 def clicked_slot():
-    print('clicked')
+    print('Clicked!')
 
 
 app = QApplication(sys.argv)
