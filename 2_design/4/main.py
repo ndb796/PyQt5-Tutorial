@@ -27,13 +27,13 @@ class DefaultWidget(QWidget):
         super().__init__()
 
         label = QLabel('Do you like chicken?')
-        ok_button = QPushButton('Yes')
-        ok_button.setObjectName("confirm_button")
+        confirm_button = QPushButton('Yes')
+        confirm_button.setObjectName("confirm_button")
         cancel_button = QPushButton('No')
         
         layout = QHBoxLayout()
         layout.addWidget(label)
-        layout.addWidget(ok_button)
+        layout.addWidget(confirm_button)
         layout.addWidget(cancel_button)
         self.setLayout(layout)
 
