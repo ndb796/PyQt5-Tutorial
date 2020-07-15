@@ -16,13 +16,13 @@
 
 #### PyQt5 기본 위젯
 
-1. QPushButton
-2. QLabel
-3. QStatusBar
-4. QLineEdit
-5. QRadioButton
-6. QComboBox
-7. QDateEdit
+1. [QPushButton](/3_widgets/1/main.py)
+2. [QLabel](/3_widgets/2/main.py)
+3. [QStatusBar](/3_widgets/3/main.py)
+4. [QLineEdit](/3_widgets/4/main.py)
+5. [QRadioButton](/3_widgets/5/main.py)
+6. [QComboBox](/3_widgets/6/main.py)
+7. [QDateEdit](/3_widgets/7/main.py)
 
 #### PyQt5 레이아웃
 
