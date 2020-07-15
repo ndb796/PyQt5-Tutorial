@@ -33,9 +33,9 @@
 
 #### Python SQLite 예제
 
-1. [sqlite3 설치 확인](/6_sqlite3/1/main.py)
-2. [sqlite3 테이블 생성](/6_sqlite3/2/main.py)
-3. [sqlite3 데이터 삽입](/6_sqlite3/3/main.py)
-4. [sqlite3 데이터 조회](/6_sqlite3/4/main.py)
-5. [sqlite3 데이터 삭제](/6_sqlite3/5/main.py)
-6. [sqlite3 테이블 삭제](/6_sqlite3/6/main.py)
+1. [sqlite3 설치 확인](/6_sqlite/1/main.py)
+2. [sqlite3 테이블 생성](/6_sqlite/2/main.py)
+3. [sqlite3 데이터 삽입](/6_sqlite/3/main.py)
+4. [sqlite3 데이터 조회](/6_sqlite/4/main.py)
+5. [sqlite3 데이터 삭제](/6_sqlite/5/main.py)
+6. [sqlite3 테이블 삭제](/6_sqlite/6/main.py)
