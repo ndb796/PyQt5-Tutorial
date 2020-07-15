@@ -4,15 +4,15 @@
 
 #### PyQt5 개요
 
-1. PyQt5의 기본 동작 원리 이해하기
-2. QMainWindow로 화면 구성하기
+1. [PyQt5의 기본 동작 원리 이해하기](/1_basic/1/main.py)
+2. [QMainWindow로 화면 구성하기](/1_basic/2/main.py)
 
 #### PyQt5 디자이너와 스타일 시트
 
-1. 디자이너로 간단한 UI 만들어 보기
-2. UI 파일을 파이썬 코드로 변환해보기
-3. 인라인 스타일 시트
-4. 내부 스타일 시트
+1. [디자이너로 간단한 UI 만들어 보기](/2_design/1/main.py)
+2. [UI 파일을 파이썬 코드로 변환해보기](/2_design/2/main.py)
+3. [인라인 스타일 시트](/2_design/3/main.py)
+4. [내부 스타일 시트](/2_design/4/main.py)
 
 #### PyQt5 기본 위젯
 
