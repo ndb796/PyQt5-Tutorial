@@ -5,9 +5,9 @@ from PyQt5.QtWidgets import *
 class MyWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setup_ui()
+        self.setupUi()
 
-    def setup_ui(self):
+    def setupUi(self):
         self.setWindowTitle("클래스로 정의한 화면")
         button = QPushButton("Push me!", self)
         button.clicked.connect(self.button_clicked)
