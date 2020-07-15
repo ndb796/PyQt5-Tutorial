@@ -39,3 +39,5 @@
 4. [sqlite3 데이터 조회](/6_sqlite/4/main.py)
 5. [sqlite3 데이터 삭제](/6_sqlite/5/main.py)
 6. [sqlite3 테이블 삭제](/6_sqlite/6/main.py)
+
+#### [GUI 파일 암호화/복호화 프로젝트](/encryption_project)
