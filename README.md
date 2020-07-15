@@ -28,5 +28,5 @@
 
 #### PyQt5 다이얼로그
 
-1. QFileDialog
-2. QInputDialog
+1. [QFileDialog](/5_dialogs/1/main.py)
+2. [QInputDialog](/5_dialogs/2/main.py)
