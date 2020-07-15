@@ -41,3 +41,5 @@
 6. [sqlite3 테이블 삭제](/6_sqlite/6/main.py)
 
 #### [GUI 파일 암호화/복호화 프로젝트](/encryption_project)
+
+#### [GUI 고객 관리 프로젝트](/management_project)
