@@ -40,6 +40,7 @@
 5. [sqlite3 데이터 삭제](/6_sqlite/5/main.py)
 6. [sqlite3 테이블 삭제](/6_sqlite/6/main.py)
 
-#### [GUI 파일 암호화/복호화 프로젝트](/encryption_project)
+#### 간단한 기초 프로젝트 예제
 
-#### [GUI 고객 관리 프로젝트](/management_project)
+1. [GUI 파일 암호화/복호화 프로젝트](/encryption_project)
+2. [GUI 고객 관리 프로젝트](/management_project)
